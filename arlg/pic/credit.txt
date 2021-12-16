@@ -1,0 +1,34 @@
+  GGGGG      AAAAA    MMM      MMM  EEEEEEEEEEE
+GGGGGGGGG  AAA   AAA  MMMMM  MMMMM  EEEEEEEEEEE
+GGG   GGG  AAA   AAA  MMM MMMM MMM  EEE
+GGG        AAAAAAAAA  MMM  MM  MMM  EEEEEEEEEEE
+GGG GGGGG  AAAAAAAAA  MMM  MM  MMM  EEEEEEEEEEE
+GGG   GGG  AAA   AAA  MMM      MMM  EEE
+GGG   GGG  AAA   AAA  MMM      MMM  EEEEEEEEEEE
+  GGGGG    AAA   AAA  MMM      MMM  EEEEEEEEEEE
+
+WIIIIIIIIIIIIIIIIIIIIIIIIIIN!!!!!!!!!!!!!!!!!
+
+                                 CREDIT
+							  Programming:
+							  Gruence
+
+
+
+							  Art:
+							  Gruence
+
+
+
+							  Debugging:
+							  Gruence
+
+
+							  
+
+							  And:
+							  You
+
+
+
+							  Press q to exit
