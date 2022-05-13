@@ -5,3 +5,5 @@ This is the game engine developed as the final project of CS246E(Object-Oriented
 In this inventory, 2 games(arlg, snooker) are contained, both based on the same engine.
 
 To play the game, use command ```make``` in the root folder, and the games' executable files will then be generated in each folders.
+
+The final design document can be viewed in design.pdf.
